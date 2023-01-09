@@ -21,3 +21,7 @@ Clone of the parity_prop tutorial from GoRails to partition an array of integers
 
 `> odd'
 '=> [1, 3, 5]`
+
+## Links
+Guide: GoRails Your First Gem [Part 1](https://youtu.be/wu2zoy63DeU) & [Part 2](https://youtu.be/_RPVUwBm6U8) 
+Gem: https://rubygems.org/gems/parity_soxface
