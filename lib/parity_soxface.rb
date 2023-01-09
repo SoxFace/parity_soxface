@@ -1,5 +1,5 @@
 class Array
-	def split_by_parity
-		self.partition(&:even?)
-	end
+  def split_by_parity
+    partition(&:even?)
+  end
 end
